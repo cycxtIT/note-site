@@ -21,4 +21,5 @@
   - [国防交通法](/usage/cnjiaotong.md)
   - [义务教育法](/usage/cnjiaoyu.md)
   - [陆地国界法](/usage/cnludiguojie.md)
+  - [突发事件应对法](/usage/cntufaaccident.md)
   - [体育法（新）](/usage/cntiyu.md)
