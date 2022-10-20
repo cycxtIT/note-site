@@ -17,7 +17,7 @@
   - [国防法](/usage/cnguofang.md)
   - [国徽法](/usage/cnguohui.md)
   - [国旗法](/usage/cnguoqi.md)
-  - [国旗法](/usage/cnguoqi.md)
+  - [国歌法](/usage/cnguoge.md)
   - [监察官法](/usage/cnjianchaguan.md)
   - [国防交通法](/usage/cnjiaotong.md)
   - [义务教育法](/usage/cnjiaoyu.md)
