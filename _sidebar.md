@@ -34,5 +34,5 @@
   - [民族区域自治法](/usage/cnmingzhuzizhi.md)
   - [戒严法](/usage/cnjieyan.md)
   - [国籍法](/usage/cnguoji.md)
-  - [著作权法](/usage/zhuzuoquan.md)
+  - [著作权法](/usage/cnzhuzuoquan.md)
   - [专利法](/usage/cnzhuanli.md)
